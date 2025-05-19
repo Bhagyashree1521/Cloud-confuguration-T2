@@ -19,3 +19,4 @@ In the second task I have confugured alerts using Google cloud. Also the metrice
 After this i clicked on create policy and then configured the alert by selecting metrices and setting conditons. After completing every step I clicked on create plloicy and thus configuration was created. Then to set up the materices I clicked operations and then monitoring. Then after following all the given steps a metric was created.
 
 
+https://github.com/Bhagyashree1521/Cloud-confuguration-T2/blob/1533cbc81691e94c63dc0ded5497808fae22320a/CT%20task%202.3.png
