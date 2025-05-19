@@ -23,4 +23,6 @@ https://github.com/Bhagyashree1521/Cloud-confuguration-T2/blob/1533cbc81691e94c6
 
 https://github.com/Bhagyashree1521/Cloud-confuguration-T2/blob/5574a31069bbca97129a64390fa8a3339ded1e8c/CT%20task%202.2.png
 
+https://github.com/Bhagyashree1521/Cloud-confuguration-T2/blob/2444519e8c36be8bf4068951b2b1ed63acd7e759/CT%20task%202.1.png
+
 
